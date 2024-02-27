@@ -1,14 +1,14 @@
-## Counter
+# Counter
 This application is a counter which counts the increasing or decreasing number of clicks. This also has a reset button. 
-# Explore the live version  [here]().
-# Technologies Used
+## Explore the live version  [here](https://imsakshirai.github.io/COUNTER/).
+## Technologies Used
 -  HTML5
 -  CSS
 - JavaScript
 
-# Installation and Setup
+## Installation and Setup
 To run this project locally, 
 
-1. Clone the repository: git clone 
+1. Clone the repository: git clone https://github.com/ImSakshiRai/COUNTER
 2. Navigate to the project directory: cd counter
 3. Open the index.html file which will redirect you to the web browser.
