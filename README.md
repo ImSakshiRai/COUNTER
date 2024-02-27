@@ -2,9 +2,9 @@
 This application is a counter which counts the increasing or decreasing number of clicks. This also has a reset button. 
 # Explore the live version  [here]().
 # Technologies Used
-(.)  HTML5
-(.)  CSS
-(.)  JavaScript
+-  HTML5
+-  CSS
+- JavaScript
 
 # Installation and Setup
 To run this project locally, 
